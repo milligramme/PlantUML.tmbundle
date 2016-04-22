@@ -10,6 +10,14 @@
 	<string>New shiny bundle for X.</string>
 	<key>name</key>
 	<string>PlantUML</string>
+  <key>mainMenu</key>
+  <dict>
+    <key>items</key>
+    <array>
+      <string>6871D21D-BB3F-488B-A3EC-E1523AFBA5C0</string>
+      <string>------------------------------------</string>
+    </array>
+  </dict>
 	<key>uuid</key>
 	<string>0E4F6C26-BDC9-425B-A825-2775C660B8DB</string>
 </dict>
